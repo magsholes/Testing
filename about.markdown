@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+![Maggie Sholes](../images/msholes.jpg)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+# Hi, I'm Maggie.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I'm a designer, art director, and occasionally a copywriter with about five years of experience under my belt. Currently, I live in Kansas City, Missouri, and work remotely for an ad agency. Some of the things I do best are developing brand identities, designing cohesive ad campaigns, and creating fun experiences for the web. Learning new things is always exciting to me, and right now I'm digging into coding and data visualization. 
 
+I'm always looking for new and exciting things to work on, so if you have a project that could use a healthy dose of good design, don't be shy. You can email me anytime at <a href="mailto:magsholes@gmail.com" target="_blank">magsholes@gmail.com</a>.
 
-[jekyll-organization]: https://github.com/jekyll
+Thanks for stopping by!

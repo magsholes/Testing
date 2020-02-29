@@ -1,29 +1,29 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Case Study: Confections by Claire"
 date:   2020-02-28 15:45:42 -0600
-categories: jekyll update
+categories: 
+tags: [branding, logo, brand identity]
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+## The Background
 
-`YEAR-MONTH-DAY-title.MARKUP`
+My friend Claire is an avid baker who maintains a steady stream of baking commissions in addition to her more-than-full-time job as a managing editor. She's made countless cakes, pies, cookies, tarts, and other various delectables for practically everyone she knows. Acknowledging the obvious entrepreneurial opportunity at hand, Claire decided she needed to establish a brand that would allow her to find new customers and present what was once a hobby as a legitimate baking business.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+![devils food cake](/images/claire-instagram3.jpg)
+![Valentine's Day cookies](/images/claire-instagram2.jpg)
+![spiced pound cake](/images/claire-instagram5.jpg)
+![orange, ginger, goat cheese, cherry cake](/images/claire-instagram1.jpg)
+![Alice and Olivia-inspired letter cookie](/images/claire-instagram4.jpg)
 
-Jekyll also offers powerful support for code snippets:
+## The Assignment
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+In order to gain trust from potential new clients, Claire needed to present her baking services in a professional manner—with a logo, business cards, website, social media presence, and a variety of other supporting materials. 
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+## The Inspiration
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Before building a mood board, we scoured Claire's Instagram likes. Instagram is a major marketing tool for most successful small businesses, including bakers (and it turns out there are some pretty hip bakers out there). Since Instagram displays users' likes in a thumbnail grid, it was particularly easy for us to quickly find patterns in the colors and styles Claire was drawn to. 
+
+Once I had a general feel for her aesthetic direction, I moved on to Pinterest. When looking for inspiration online, I find it best to not necessarily search for exactly what I'm looking for. Sure, it's always useful to look for other up-and-coming baking businesses and how they're branding themselves, but sometimes that inspiration can subconsciously plant itself in my brain and influence the direction—and the end result—too much. Even if that's not the case, looking at what competitors are doing can create unintentional restrictions or "rules." And by that I mean, if I see a lot of bakeries are using badge-style logos, it might seem like the "right way" to make a logo for a bakery is to make it a badge, leading me to only explore badge-style logos for the brand I'm working on.
+
+Basically, all that to say I use Pinterest to creat mood boards by clicking on one image I like, then using the suggested images below that to find the next one, and the next one until I have enough for a mood board—not necessarily by searching for image similar to what I think I want.

@@ -2,8 +2,8 @@
 layout: post
 title:  "Case Study: Confections by Claire"
 date:   2020-02-28 15:45:42 -0600
-categories: case studies
-tags: [branding, logo, brand identity]
+categories: 
+tags: 
 ---
 
 ## The Background

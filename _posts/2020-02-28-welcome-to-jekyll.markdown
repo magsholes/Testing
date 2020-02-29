@@ -10,7 +10,7 @@ tags: [branding, logo, brand identity]
 
 My friend Claire is an avid baker who maintains a steady stream of baking commissions in addition to her more-than-full-time job as a managing editor. She's made countless cakes, pies, cookies, tarts, and other various delectables for practically everyone she knows. Acknowledging the obvious entrepreneurial opportunity at hand, Claire decided she needed to establish a brand that would allow her to find new customers and present what was once a hobby as a legitimate baking business.
 
-![devils food cake](images/claire-instagram3.jpg)
+![devils food cake](http://magsholes.github.io/Testing/images/claire-instagram3.jpg)
 ![Valentine's Day cookies](images/claire-instagram2.jpg)
 ![spiced pound cake](images/claire-instagram5.jpg)
 ![orange, ginger, goat cheese, cherry cake](images/claire-instagram1.jpg)

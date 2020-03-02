@@ -26,11 +26,14 @@ baseurl: "/Testing" # the subpath of your site, e.g. /blog
 url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mags_holes
 github_username:  magsholes
+linkedin_username: maggiesholes
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

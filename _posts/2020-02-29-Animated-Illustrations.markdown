@@ -2,7 +2,7 @@
 layout: post
 title:  "Animated Illustrations"
 date:   2020-02-28 15:45:42 -0600
-categories: 
+category: journal
 tags: 
 ---
 
@@ -12,11 +12,11 @@ So I was excited about this illustration challenge, at least for a couple weeks 
 
 ## Week 1 Prompt: "Frail"
 
-![Frail](../../../images/Frail.gif)
+![Frail](../../../../images/Frail.gif)
 
 ## Week 2 Prompt: "Legend"
 
-![Legend](../../../images/Legend.gif)
+![Legend](../../../../images/Legend.gif)
 
 ---
 

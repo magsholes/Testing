@@ -2,7 +2,7 @@
 layout: post
 title:  "Confections by Claire"
 date:   2020-02-28 15:45:42 -0600
-categories: 
+categories: [case-studies]
 tags: 
 ---
 
@@ -10,10 +10,10 @@ tags:
 
 My friend Claire is an avid baker who maintains a steady stream of baking commissions in addition to her more-than-full-time job as a managing editor. She's made countless cakes, pies, cookies, tarts, and other various delectables for practically everyone she knows. Acknowledging the obvious entrepreneurial opportunity at hand, Claire decided she needed to establish a brand that would allow her to find new customers and present what was once a hobby as a legitimate baking business.
 
-![devils food cake](../../../images/claire-instagram3.jpg)
-![Valentine's Day cookies](../../../images/claire-instagram2.jpg)
-![spiced pound cake](../../../images/claire-instagram5.jpg)
-![orange, ginger, goat cheese, cherry cake](../../../images/claire-instagram1.jpg)
+![devils food cake](../../../../images/claire-instagram3.jpg)
+![Valentine's Day cookies](../../../../images/claire-instagram2.jpg)
+![spiced pound cake](../../../../images/claire-instagram5.jpg)
+![orange, ginger, goat cheese, cherry cake](../../../../images/claire-instagram1.jpg)
 
 *Images from Claire's [Instagram](https://www.instagram.com/ceyonce_knowles/)*
 
@@ -36,13 +36,13 @@ Basically, all that to say I use Pinterest to creat mood boards by clicking on o
 Based on the insights from Claire's Instagram likes, I was able to gather inspiration for three different directions:
 
 ### Bright, bold, and graphic
-![Concept 1 Moodboard](../../../images/CbC-moodboard1.jpg)
+![Concept 1 Moodboard](../../../../images/CbC-moodboard1.jpg)
 
 ### Dark, moody, and earthy
-![Concept 2 Moodboard](../../../images/CbC-moodboard2.jpg)
+![Concept 2 Moodboard](../../../../images/CbC-moodboard2.jpg)
 
 ### Classic, delicate, and Parisienne
-![Concept 3 Moodboard](../../../images/CbC-moodboard3.jpg)
+![Concept 3 Moodboard](../../../../images/CbC-moodboard3.jpg)
 
 Each concept included a suggested color story along with the mood images. This ended up being even more helpful than I anticipated, as Claire referred back to these color palettes a lot when discussing which concept she preferred.
 
@@ -52,7 +52,7 @@ Each concept included a suggested color story along with the mood images. This e
 
 Ultimately Claire chose to go with the second direction: "Dark, moody, and earthy." Now that we had a general idea in mind, I moved forward with logo concepts based on this mood board. 
 
-![Final Mood Board Selection](../../../images/CbC-final-moodboard.jpg)
+![Final Mood Board Selection](../../../../images/CbC-final-moodboard.jpg)
 
 *Final Mood Board Selection*
 
@@ -61,21 +61,21 @@ In a perfect world, a designer could toil away at iteration after iteration of l
 Unfortunately that's not how things typically work. I've yet to work with a client who would be satisfied with having one logo option presented to them, even if it was the best thing they'd ever seen. People like to choose, as it turns out. In this case, four options felt right, so that's what I presented for Claire to choose from.
 
 ### Concept 1
-![Concept 1](../../../images/CbC-logo-1.jpg)
-![Concept 1](../../../images/CbC-logo-1-colors.jpg)
+![Concept 1](../../../../images/CbC-logo-1.jpg)
+![Concept 1](../../../../images/CbC-logo-1-colors.jpg)
 
 ### Concept 2
-![Concept 2](../../../images/CbC-logo-2a.jpg)
-![Concept 2](../../../images/CbC-logo-2b.jpg)
-![Concept 2](../../../images/CbC-logo-2-colors.jpg)
+![Concept 2](../../../../images/CbC-logo-2a.jpg)
+![Concept 2](../../../../images/CbC-logo-2b.jpg)
+![Concept 2](../../../../images/CbC-logo-2-colors.jpg)
 
 ### Concept 3
-![Concept 3](../../../images/CbC-logo-3.jpg)
-![Concept 3](../../../images/CbC-logo-3-colors.jpg)
+![Concept 3](../../../../images/CbC-logo-3.jpg)
+![Concept 3](../../../../images/CbC-logo-3-colors.jpg)
 
 ### Concept 4
-![Concept 4](../../../images/CbC-logo-4.jpg)
-![Concept 4](../../../images/CbC-logo-4-colors.jpg)
+![Concept 4](../../../../images/CbC-logo-4.jpg)
+![Concept 4](../../../../images/CbC-logo-4-colors.jpg)
 
 ---
 

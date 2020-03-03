@@ -2,6 +2,8 @@
 layout: post
 title:  "Animated Illustrations"
 date:   2020-02-28 15:45:42 -0600
+featured-image: claire-instagram5.jpg
+featured-image-alt: Let's hope this works!
 category: journal
 tags: 
 ---

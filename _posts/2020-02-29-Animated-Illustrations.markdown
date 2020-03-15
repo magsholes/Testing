@@ -14,11 +14,11 @@ So I was excited about this illustration challenge, at least for a couple weeks 
 
 ## Week 1 Prompt: "Frail"
 
-![Frail](../../../../images/Frail.gif)
+![Frail](../../../../assets/images/Frail.gif)
 
 ## Week 2 Prompt: "Legend"
 
-![Legend](../../../../images/Legend.gif)
+![Legend](../../../../assets/images/Legend.gif)
 
 ---
 

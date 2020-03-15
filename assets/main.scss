@@ -1,0 +1,108 @@
+---
+
+---
+
+@charset "utf-8";
+
+//DEFINE COLORS
+
+$neutral-light:        #F8F5EE !default;
+$neutral-medium:       #fdfdfd !default;
+$neutral-dark:         #242120 !default;
+
+$accent-light:         #F7C6CB !default;
+$accent-medium:        #F2D040 !default;
+$accent-bright:        #ED4337 !default;
+$accent-dark:          #001888 !default;
+
+$master-border: 6px solid $neutral-dark;
+
+$table-text-align: left !default;
+
+// Width of the content area
+$content-width:    800px !default;
+
+$on-palm:          600px !default;
+$on-laptop:        800px !default;
+
+@mixin dotted-line {
+    content: "";
+    height: 18px;
+    width: 100%;
+    margin: 20px 0 50px 0;
+    display: block;
+    background: url(images/square-dot.png);
+    border: 0;
+}
+
+// GRID SETUP
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(16, 1fr);
+    grid-gap: 50px;
+    justify-content: center;
+}
+
+//.grid-container {
+//    margin: 0 auto;
+//    width: 85vw;
+//    justify-content: space-evenly;
+//    display: grid;
+//    grid-template-columns: repeat(12, 1fr);
+//    grid-column-gap: 1em;
+//    grid-row-gap: 1em;
+//}
+//
+//.width-1\/12 {
+//  grid-column: span 1;
+//}
+//
+//.width-2\/12 {
+//  grid-column: span 2;
+//}
+//
+//.width-3\/12 {
+//  grid-column: span 3;
+//}
+//
+//.width-4\/12 {
+//  grid-column: span 4;
+//}
+//
+//.width-5\/12 {
+//  grid-column: span 5;
+//}
+//
+//.width-6\/12 {
+//  grid-column: span 6;
+//}
+//
+//.width-7\/12 {
+//  grid-column: span 7;
+//}
+//
+//.width-8\/12 {
+//  grid-column: span 8;
+//}
+//
+//.width-9\/12 {
+//  grid-column: span 9;
+//}
+//
+//.width-10\/12 {
+//  grid-column: span 10;
+//}
+//
+//.width-11\/12 {
+//  grid-column: span 11;
+//}
+//
+//.width-12\/12 {
+//  grid-column: span 12;
+//}
+
+@import 
+    "type",
+    "layout"
+    ;

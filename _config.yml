@@ -28,8 +28,7 @@ twitter_username: mags_holes
 github_username:  magsholes
 linkedin_username: maggiesholes
 
-# Build settings
-theme: minima
+# Build settings 
 plugins:
   - jekyll-feed
 

@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![Maggie Sholes](../images/msholes.jpg)
+![Maggie Sholes](../assets/images/msholes.jpg)
 
 # Hi, I'm Maggie.
 

@@ -35,72 +35,24 @@ $on-laptop:        800px !default;
     border: 0;
 }
 
-// GRID SETUP
-
-.grid-container {
-    display: grid;
-    grid-template-columns: repeat(16, 1fr);
-    grid-gap: 50px;
-    justify-content: center;
+@mixin dotted-box {
+    content: "";
+    height: 100%;
+    width: 100%;
+    display: block;
+    background: url(images/square-dot.png);
 }
 
-//.grid-container {
-//    margin: 0 auto;
-//    width: 85vw;
-//    justify-content: space-evenly;
-//    display: grid;
-//    grid-template-columns: repeat(12, 1fr);
-//    grid-column-gap: 1em;
-//    grid-row-gap: 1em;
-//}
-//
-//.width-1\/12 {
-//  grid-column: span 1;
-//}
-//
-//.width-2\/12 {
-//  grid-column: span 2;
-//}
-//
-//.width-3\/12 {
-//  grid-column: span 3;
-//}
-//
-//.width-4\/12 {
-//  grid-column: span 4;
-//}
-//
-//.width-5\/12 {
-//  grid-column: span 5;
-//}
-//
-//.width-6\/12 {
-//  grid-column: span 6;
-//}
-//
-//.width-7\/12 {
-//  grid-column: span 7;
-//}
-//
-//.width-8\/12 {
-//  grid-column: span 8;
-//}
-//
-//.width-9\/12 {
-//  grid-column: span 9;
-//}
-//
-//.width-10\/12 {
-//  grid-column: span 10;
-//}
-//
-//.width-11\/12 {
-//  grid-column: span 11;
-//}
-//
-//.width-12\/12 {
-//  grid-column: span 12;
-//}
+// GRID SETUP
+
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+// ICONS
+
 
 @import 
     "type",

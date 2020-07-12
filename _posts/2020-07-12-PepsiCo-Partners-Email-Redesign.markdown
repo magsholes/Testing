@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "PepsiCo Partners Email Design"
-date:   2020-07-12 14:34:42 -0600
+date:   2020-07-11 14:34:42 -0600
 featured-image: msholes.jpg
 featured-image-alt: Testing featured images for posts
 categories: [case-studies]

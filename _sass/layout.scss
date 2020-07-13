@@ -242,7 +242,7 @@ img {
 
 figure {
     padding: 0;
-    margin: 50px 0 0 0;
+    margin: 20px 0 0 0;
 }
 
 .single {
@@ -251,7 +251,7 @@ figure {
 }
 
 .double {
-    width: 45%;
+    width: 48%;
     height: auto;
 }
 
@@ -260,9 +260,27 @@ figure {
     height: auto;
 }
 
+
 hr {
     @include dotted-line;
     margin-top: 50px;
 }
+
+.full-width {
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+}
+
+// IMAGE SLIDER
+
 
 

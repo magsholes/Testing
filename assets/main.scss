@@ -47,14 +47,16 @@ $on-laptop:        800px !default;
 
 .flex-container {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     flex-wrap: wrap;
+    margin: 0 auto;
 }
 
 // ICONS
 
-
+ 
 @import 
     "type",
-    "layout"
+    "layout",
+    "media-queries"
     ;

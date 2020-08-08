@@ -9,14 +9,13 @@ layout: default
   {%- if site.posts.size > 0 -%}
    
        
-    <div class="post-category">
+    <div class="post-category flex-container">
     
     <h2>Case Studies</h2>
     
     {%- for post in site.categories.case-studies limit:3 -%}
-      
-            <a href="{{ post.url | relative_url }}">
-                <div class="post-link" style="background-image: url({{"assets/images/" | prepend: relative_url | append : post.featured-image}})">
+<!--          <div class="post-container">-->
+            <a href="{{ post.url | relative_url }}" class="post-link" style="background-image: url({{"assets/images/" | prepend: relative_url | append : post.featured-image}})">
 
                     <div class="post-info">
                         <h3>{{ post.title | escape }}</h3>
@@ -25,23 +24,21 @@ layout: default
 
                         <span class="post-meta">{{ post.date | date: date_format }}</span>
                     </div>
-                </div>
             </a>
+<!--            </div>-->
         
       {%- endfor -%}
-    <a href="{{ site.baseurl }}/category/case-studies"><li class="view-all parent"><svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 26.4 43" style="enable-background:new 0 0 26.4 43;" xml:space="preserve"><path id="Union_1" class="st0" d="M21.5,21.5l-19-19L21.5,21.5l1-1L21.5,21.5l1,1L21.5,21.5l-19,19L21.5,21.5z"/></svg></li>
+    <a href="{{ site.baseurl }}/category/case-studies"><button class="view-all parent"><svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 26.4 43" style="enable-background:new 0 0 26.4 43;" xml:space="preserve"><path id="Union_1" class="st0" d="M21.5,21.5l-19-19L21.5,21.5l1-1L21.5,21.5l1,1L21.5,21.5l-19,19L21.5,21.5z"/></svg></button>
     </a>
     </div>
     
-    <div class="post-category">
+    <div class="post-category flex-container">
     
     <h2>Journal</h2>
     
     {%- for post in site.categories.journal limit:3 -%}
-      
-            <a href="{{ post.url | relative_url }}">
-                <div class="post-link" style="background-image: url({{"assets/images/" | prepend: relative_url | append : post.featured-image}})">
-
+<!--          <div class="post-container">            -->
+                   <a href="{{ post.url | relative_url }}" class="post-link" style="background-image: url({{"assets/images/" | prepend: relative_url | append : post.featured-image}})">
                     <div class="post-info">
                         <h3>{{ post.title | escape }}</h3>
 
@@ -49,11 +46,11 @@ layout: default
 
                         <span class="post-meta">{{ post.date | date: date_format }}</span>
                     </div>
-                </div>
             </a>
+<!--           </div>-->
         
       {%- endfor -%}
-    <a href="{{ site.baseurl }}/category/case-studies"><li class="view-all parent"><svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 26.4 43" style="enable-background:new 0 0 26.4 43;" xml:space="preserve"><path id="Union_1" class="st0" d="M21.5,21.5l-19-19L21.5,21.5l1-1L21.5,21.5l1,1L21.5,21.5l-19,19L21.5,21.5z"/></svg></li>
+    <a href="{{ site.baseurl }}/category/journal"><button class="view-all parent"><svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 26.4 43" style="enable-background:new 0 0 26.4 43;" xml:space="preserve"><path id="Union_1" class="st0" d="M21.5,21.5l-19-19L21.5,21.5l1-1L21.5,21.5l1,1L21.5,21.5l-19,19L21.5,21.5z"/></svg></button>
     </a>
     </div>
       

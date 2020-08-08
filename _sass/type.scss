@@ -25,7 +25,7 @@ h1 {
     text-transform: uppercase;
 }
 
-.nav a, nav a:visited {
+.nav a, nav a:visited, nav a:link {
     text-align: right;
     color: $accent-light;
 }

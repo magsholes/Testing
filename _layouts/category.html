@@ -1,16 +1,16 @@
 ---
 layout: default
 ---
-<div class="page-content">
 
-    <h1>{{ page.title | escape }}</h1>
+
     
-    <ul class="post-category">
-        
+    <div class="post-category category-page">
+       
+    <h1>{{ page.title | escape }}</h1>
+          
     {%- for post in site.categories[page.tag] -%}
       
-            <a href="{{ post.url | relative_url }}">
-                <li class="post-link" style="background-image: url({{"../assets/images/" | prepend: relative_url | append : post.featured-image}})">
+            <a href="{{ post.url | relative_url }}" class="post-link" style="background-image: url({{"../assets/images/" | prepend: relative_url | append : post.featured-image}})">
 
                     <div class="post-info">
                         <h3>{{ post.title | escape }}</h3>
@@ -19,11 +19,9 @@ layout: default
 
                         <span class="post-meta">{{ post.date | date: date_format }}</span>
                     </div>
-                </li>
             </a>
         
       {%- endfor -%}
 
-    </ul>
+    </div>
 
-</div>

@@ -1,11 +1,12 @@
 @media screen 
-    and (min-device-width: 600px)
-    and (max-device-width: 1049px) { 
+    and (min-width: 600px)
+    and (max-width: 1049px) { 
       
       // HOME PAGE 
 
     .post-category {
         justify-content: flex-start;
+        
         h2 {
             float: none;
             width: 100%;
@@ -14,10 +15,8 @@
 
         a.post-link {
             list-style-type: none;
-            height: 200px;
-            width: 40%;
-            min-width: 200px;
-            max-width: 300px;
+            height: 300px;
+            width: 45%;
             margin-bottom: 30px;
 
             .post-info {
@@ -29,11 +28,23 @@
         }
 
     }
+        
+        // HEADER + NAV
+        
+        .site-header {
+            height: 7em;
+        }
+        
+        .nav-links a {
+            display: block;
+        }
       
 }
 
 @media screen 
-    and (max-device-width: 599px) {
+    and (max-width: 599px) {
+        
+        // HOME PAGE
         
         h2 {
         float: none;
@@ -43,7 +54,7 @@
         
         .post-category{
             justify-content: flex-start;
-            width: 90%;
+            width: 80%;
             
             h2 {
                 width: 100%;
@@ -65,6 +76,24 @@
                     stroke-width: 7px;
                 }
             }
+        }
+        
+        // HEADER + NAV
+        
+        .site-header {
+            height: 9em;
+        }
+        
+        a.site-title {
+        width: 100%;
+        }
+        
+        .nav-links {
+            float: left;
+            text-align: left;
+                a {
+                display: block;
+                }
         }
             
 }

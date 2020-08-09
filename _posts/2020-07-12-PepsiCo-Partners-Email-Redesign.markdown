@@ -16,7 +16,7 @@ tags:
 
 ### Style Guide
 
-Before our team could create any content, we needed a style guide to serve as the foundation. I developed these guidelines that included type treatment, iconography, colors, and more. This document proved instrumental in keeping the entire content portfolio cohesive and on-brand. 
+Before our team could create any content, we needed a style guide to serve as the foundation. I developed these guidelines that included type treatment, iconography, colors, and more. This document proved instrumental in keeping all communications cohesive and on-brand. 
 
 <div class="full-width">
         <img class="double" src="../../../../assets/images/PCP-Title.jpg" alt="PepsiCo Partners Content Style Guide" />
@@ -30,7 +30,7 @@ Before our team could create any content, we needed a style guide to serve as th
 
 ### Email
 
-Every month, PepsiCo Partners customers receive an email newsletter that features new products, recent articles, and helpful website features. It was vital to make this newsletter as engaging and easy to read as possible for operators, but we also needed to build a flexible template system that was simple enough for anyone to edit while sticking to the established style guide.
+Every month, PepsiCo Partners customers receive emails that features new products, recent articles, and helpful website features. It was vital to make this newsletter as engaging and easy to read as possible for operators, but we also needed to build a flexible template system that was simple enough for anyone to edit while sticking to the established style guide.
 
 <div class="flex-container">
     <figure class="single">

@@ -23,7 +23,7 @@ email: magsholes@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Maggie is a designer living and working in Kansas City.
 baseurl: "/Testing" # the subpath of your site, e.g. /blog
-url: "http://magsholes.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://magsholes.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mags_holes
 github_username:  magsholes
 linkedin_username: maggiesholes

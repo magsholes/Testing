@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Food Truck Concept"
+title:  "Runaway Grub"
 date:   2020-08-07 14:34:42 -0600
 featured-image: RG-FoodTruck-thumbnail.jpg
 featured-image-alt: Runaway Grub Food Truck Concept
-categories: [journal]
+categories: [case-studies]
 tags: 
 ---
 

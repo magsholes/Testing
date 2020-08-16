@@ -1,10 +1,17 @@
 
-
-p {
+body {
     font-family: obviously, sans-serif;
     font-weight: 400;
     font-size: 18px;
     line-height: 32px;
+    
+    ::selection {
+        background: $accent-light;
+        color: $accent-dark;
+    }
+}
+
+p {
     margin-bottom: 50px;
 }
 
@@ -14,6 +21,15 @@ h1 {
     text-transform: uppercase;
     letter-spacing: 2px;
     line-height: 100%;
+}
+
+li {
+    list-style-type: square;
+    margin: 10px 0;
+}
+
+code {
+    background: $accent-medium;
 }
 
 // HEADER NAV
@@ -62,6 +78,7 @@ h1 {
         font-family: obviously-wide, sans-serif;
         font-weight: 500;
         font-size: 28px;
+        padding-bottom: 20px;
     }
 }
 

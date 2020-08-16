@@ -4,7 +4,7 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
 -->
-    <a class="site-title" rel="author" href="http://magsholes.com">{{ site.title | escape }}</a>
+    <a class="site-title" rel="author" href="{{ site.baseurl }}">{{ site.title | escape }}</a>
 
 <!--
     {%- if page_paths -%}
@@ -22,9 +22,9 @@
 -->
 
     <nav class="nav-links">
-        <a class="nav" href="http://magsholes.com/category/case-studies">Case Studies</a>
-        <a class="nav" href="http://magsholes.com/category/journal">Journal</a>
-        <a class="nav" href="http://magsholes.com/about">About</a>
+        <a class="nav" href="{{ site.baseurl }}/category/case-studies">Case Studies</a>
+        <a class="nav" href="{{ site.baseurl }}/category/journal">Journal</a>
+        <a class="nav" href="{{ site.baseurl }}/about">About</a>
     </nav>
           
 <!--        </div>-->

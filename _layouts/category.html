@@ -4,10 +4,11 @@ layout: default
 
 
     
-    <div class="post-category category-page">
+    <div class="post-category">
        
     <h1>{{ page.title | escape }}</h1>
-          
+      
+    <div class="flex-container category-page">    
     {%- for post in site.categories[page.tag] -%}
       
             <a href="{{ post.url | relative_url }}" class="post-link" style="background-image: url({{"../assets/images/" | prepend: relative_url | append : post.featured-image}})">
@@ -22,6 +23,6 @@ layout: default
             </a>
         
       {%- endfor -%}
-
+    </div>
     </div>
 

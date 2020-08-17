@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Photoshop Workflow Tips"
-date:   2020-08-08 10:44:00 -0600
+date:   
 featured-image: PS-tips-thumbnail.jpg
 featured-image-alt: The Simplest Ways to Speed Up Your Photoshop Workflow
 categories: [journal]

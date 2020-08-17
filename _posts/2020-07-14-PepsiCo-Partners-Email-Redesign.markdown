@@ -4,7 +4,7 @@ title:  "PepsiCo Partners"
 date:   2020-07-11 14:34:42 -0600
 featured-image: PCP-Content-thumbnail.jpg
 featured-image-alt: PepsiCo Partners Content Design
-categories: [case-studies]
+categories: 
 tags: 
 ---
 

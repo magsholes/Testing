@@ -252,8 +252,7 @@ button.view-all:hover svg, button.view-all:hover .svg {
 
 img {
     border: $master-border;
-    width: 100%;
-    height: auto;
+    width: auto !important;
 }
 
 .no-border {
@@ -275,7 +274,7 @@ figure {
     height: auto;
 }
 
-.triple {
+.triple { 
     width: 30%;
     height: auto;
 }

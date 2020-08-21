@@ -80,6 +80,14 @@ code {
         font-size: 28px;
         padding-bottom: 20px;
     }
+    
+    a:link, a:visited {
+        color: $accent-dark;
+    }
+    a:active, a:hover {
+        color: $neutral-light;
+        background: $accent-dark;
+    }
 }
 
 
@@ -145,3 +153,18 @@ blockquote {
     min-width: 500px;
 }
 
+// FOOTER
+
+.site-footer {
+     p {
+        text-align: center;
+        font-size: 10px;
+    }
+    
+    a:link, a:visited {
+        color: $neutral-light;
+    }
+    a:active, a:hover {
+        color: $accent-medium;
+    }
+}

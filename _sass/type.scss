@@ -9,6 +9,14 @@ body {
         background: $accent-light;
         color: $accent-dark;
     }
+    
+    a:link, a:visited {
+        color: $accent-dark;
+    }
+    a:active, a:hover {
+        color: $neutral-light;
+        background: $accent-dark;
+    }
 }
 
 p {
@@ -79,14 +87,6 @@ code {
         font-weight: 500;
         font-size: 28px;
         padding-bottom: 20px;
-    }
-    
-    a:link, a:visited {
-        color: $accent-dark;
-    }
-    a:active, a:hover {
-        color: $neutral-light;
-        background: $accent-dark;
     }
 }
 
@@ -159,12 +159,12 @@ blockquote {
      p {
         text-align: center;
         font-size: 10px;
-    }
-    
-    a:link, a:visited {
-        color: $neutral-light;
-    }
-    a:active, a:hover {
-        color: $accent-medium;
+         
+             a:link, a:visited {
+                color: $neutral-light;
+            }
+            a:active, a:hover {
+                color: $accent-medium;
+            }
     }
 }

@@ -30,3 +30,13 @@ Pentacles, or coins, symbolize the material world in the literal sense—our mon
 
 <img src="../../../../assets/images/tarot/four-of-pentacles.jpg" class="single no-border" alt="Four of Pentacles" />
 
+---
+
+#### Week of 10/5/20
+
+### The Two of Cups
+
+The two of cups signifies the beginning of a strong mutual connection. That could represent a budding romance, a new business partnership, or a potential friendship. This is a good reminder to celebrate such relationships and show those you love how grateful you are to have them in your life.
+
+<img src="../../../../assets/images/tarot/two-of-cups-web.jpg" class="single no-border" alt="Two of Cups" />
+

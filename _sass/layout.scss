@@ -302,6 +302,11 @@ figure {
     margin: 50px 50px 50px 0;
 }
 
+.float-right {
+    float: right;
+    margin: 50px 50px 50px 0;
+}
+
 
 hr {
     @include dotted-line;
